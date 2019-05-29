@@ -3,7 +3,7 @@
     "type": "library",
     "description": "Serialize Closures, including their context",
     "keywords": ["closure", "serialize", "serializable", "function", "parser", "tokenizer", "lambda"],
-    "homepage": "https://github.com/brad-jones/super_closure",
+    "homepage": "https://github.com/vchagin/superclosure",
     "license": "MIT",
     "authors": [
         {
