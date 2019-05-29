@@ -1,5 +1,5 @@
 {
-    "name": "brad-jones/superclosure",
+    "name": "vchagin/superclosure",
     "type": "library",
     "description": "Serialize Closures, including their context",
     "keywords": ["closure", "serialize", "serializable", "function", "parser", "tokenizer", "lambda"],
